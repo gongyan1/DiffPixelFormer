@@ -1,0 +1,10 @@
+RGB/train_0.jpg	labels/train_0.png	Depth/train_0.png
+RGB/train_1.jpg	labels/train_1.png	Depth/train_1.png
+RGB/train_2.jpg	labels/train_2.png	Depth/train_2.png
+RGB/train_3.jpg	labels/train_3.png	Depth/train_3.png
+RGB/train_4.jpg	labels/train_4.png	Depth/train_4.png
+RGB/train_5.jpg	labels/train_5.png	Depth/train_5.png
+RGB/train_6.jpg	labels/train_6.png	Depth/train_6.png
+RGB/train_7.jpg	labels/train_7.png	Depth/train_7.png
+RGB/train_8.jpg	labels/train_8.png	Depth/train_8.png
+RGB/train_9.jpg	labels/train_9.png	Depth/train_9.png
