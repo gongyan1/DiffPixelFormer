@@ -86,15 +86,15 @@ Table I Comparison of existing state-of-the-art methods on the SUN RGB-D and NYU
 
 # Visualization Result
 
-Fig. 2 Quantitative comparison of our DiffPixelFormer with the baseline and various cross-attention methods on NYUDv2, where GT denotes the ground truth.
 <div align="center">
    <img src="./figs/nyudv2.png" width="960">
 </div>
+Fig. 2 Quantitative comparison of our DiffPixelFormer with the baseline and various cross-attention methods on NYUDv2, where GT denotes the ground truth.  
 
-Fig. 3 Quantitative comparison of our DiffPixelFormer with the baseline and various cross-attention methods on SUNRGB-D.
 <div align="center">
    <img src="./figs/sun.png" width="960">
 </div>
+Fig. 3 Quantitative comparison of our DiffPixelFormer with the baseline and various cross-attention methods on SUNRGB-D.
 
 ## Acknowledgement
 Part of our code is based on the open-source project [TokenFusion](https://github.com/yikaiw/TokenFusion) and [GeminiFusion](https://github.com/JiaDingCN/GeminiFusion).
