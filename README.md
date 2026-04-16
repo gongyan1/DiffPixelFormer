@@ -1,6 +1,6 @@
 # DiffPixelFormer: Differential Pixel-aware Transformer for RGB-D Indoor Scene Segmentation
+Pytorch implementation of "[DiffPixelFormer: Differential Pixel-aware Transformer for RGB-D Indoor Scene Segmentation](https://ieeexplore.ieee.org/document/11455264)"
 
-Pytorch implementation of "DiffPixelFormer: Differential Pixel-aware Transformer for RGB-D Indoor Scene Segmentation"
 
 <div align="center">
    <img src="./figs/pipe.png" width="960">
